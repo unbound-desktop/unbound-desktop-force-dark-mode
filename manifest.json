@@ -1,0 +1,12 @@
+{
+   "name": "Force Dark Class",
+   "authors": [
+      {
+         "name": "eternal",
+         "id": "263689920210534400"
+      }
+   ],
+   "description": "Forces dark classes on parts where discord doesn't.",
+   "version": "1.0.0",
+   "id": "eternal.force-dark-class"
+}
